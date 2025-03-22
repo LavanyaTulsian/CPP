@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7743175-0689-48D5-AF68-8F903E9166D8}|hello world\\hello world.vcxproj|C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7743175-0689-48D5-AF68-8F903E9166D8}|hello world\\hello world.vcxproj|solutionrelative:hello world\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7743175-0689-48D5-AF68-8F903E9166D8}|hello world\\hello world.vcxproj|C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7743175-0689-48D5-AF68-8F903E9166D8}|hello world\\hello world.vcxproj|solutionrelative:hello world\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Log.cpp",
+              "RelativeDocumentMoniker": "hello world\\Log.cpp",
+              "ToolTip": "C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Log.cpp",
+              "RelativeToolTip": "hello world\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T15:10:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Main.cpp",
+              "RelativeDocumentMoniker": "hello world\\Main.cpp",
+              "ToolTip": "C:\\Dev\\cppPractice\\pd1-2\\NewWorld\\hello world\\Main.cpp*",
+              "RelativeToolTip": "hello world\\Main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T15:05:53.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
