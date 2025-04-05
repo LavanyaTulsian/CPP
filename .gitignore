@@ -1,7 +1,22 @@
-*.exe
-*.out
-*.o
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.VC.db
+*.suo
+*.ipch/
 *.obj
+*.exe
 *.log
-.vscode/
-build/
+*.tlog
+*.idb
+*.pdb
+*.cache
+*.ilk
+*.sdf
+*.opensdf
+
+# Ignore build output folders
+Debug/
+Release/
+x64/
+x86/
